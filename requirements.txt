@@ -1,0 +1,9 @@
+PyQt5
+fitz
+PyMuPDF
+python-dotenv
+transformers
+sentence-transformers
+pdfminer.six
+sentence-transformers
+qdrant-client
